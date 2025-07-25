@@ -1,4 +1,4 @@
-🔴 Olá! Bem vindo ao meu perfil, meu nome é Gabriel Souza dos Santos.
+🔴 Olá! Bem vindo ao meu perfil, meu nome é AGIRBLE.
 🟠 Aqui, procuro aprender mais sobre programação, principalmente a de JavaScript, a qual estou estudando com o auxílio, também, do curso Alura!
 🟡 Com o meu avanço, irei esclarecer os códigos e explicitá-los aqui no repositório AGIRBLE...
 
